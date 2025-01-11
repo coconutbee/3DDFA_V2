@@ -13,7 +13,7 @@ import time
 
 ##############################################################
 # OpenAI API Key
-api_key = "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"
+api_key = "your-api-key"
 ##############################################################
 
 encoding = tiktoken.encoding_for_model("gpt-4o-mini") 
