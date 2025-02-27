@@ -11,4 +11,4 @@ pip install -r requirements.txt
 
 ## FAQ
 Q1:No found module name Faceboxes  
-A1:sh ./build.s
+A1:sh ./build.sh
