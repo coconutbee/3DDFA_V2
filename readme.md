@@ -10,5 +10,5 @@ pip install -r requirements.txt
 1. remove_side_face.py -> delete all side face, reserve frontal face.
 
 ## FAQ
-Q1:No found module name Faceboxes
+Q1:No found module name Faceboxes  
 A1:sh ./build.s
